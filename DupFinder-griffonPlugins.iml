@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$USER_HOME$/.griffon/1.4.0/projects/DupFinder/plugins/glazedlists-2.0.0" />
+    <content url="file://$USER_HOME$/.griffon/1.4.0/projects/DupFinder/plugins/miglayout-1.0.0" />
+    <content url="file://$USER_HOME$/.griffon/1.4.0/projects/DupFinder/plugins/swing-1.4.0" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" scope="PROVIDED" name="griffon-1.4.0" level="application" />
+    <orderEntry type="module-library" exported="">
+      <library name="Griffon:lib (DupFinder-griffonPlugins)">
+        <CLASSES />
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>
+
