@@ -12,7 +12,7 @@ class Utils
     static Writable pogoToXml( object )
     {
         new groovy.xml.StreamingMarkupBuilder().bind {
-            "${object.getClass().name}" {
+            "${object.getClass().simpleName}" {
                 object.getClass().declaredFields.grep { !it.synthetic }.name.each { n ->
                     "$n"( object."$n" )
                 }
@@ -55,7 +55,7 @@ class Utils
                 raf.close();
             }
         }
-        catch (Exception e)
+        catch (Exception)
         {
             // ignore it: e.g. java.io.FileNotFoundException (A m�velet v�grehajt�sa nem siker�lt, mert a f�jl v�rust vagy v�lhet�en nemk�v�natos szoftvert tartalmaz)
             return "########";
@@ -71,7 +71,7 @@ class Utils
 
     static printDuplicates(Collection<FileDesc> descrs)
     {
-        def df = new java.text.DecimalFormat("#,###,###,##0.00" )
+        def df = new DecimalFormat("#,###,###,##0.00" )
 
         // duplicates
         println "Looking for duplicates..."

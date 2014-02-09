@@ -35,7 +35,7 @@ class DupFinderController {
                 filelensum += it.length
             }
             dups.each {
-                def v = [name: it[0].name, path: it[0].path, length: it[0].length, descrs: it]
+                def v = [name: it[0].name, path: it[0].path, length: it[0].length, descrs: it, dupes:it.size()]
                 duplensum += it[0].length
                 model.duplicates.add v
             }
@@ -46,7 +46,8 @@ class DupFinderController {
     }
 
     def openFile = {
-        view.fileChooserWindow.setFileSelectionMode(JFileChooser.FILES_ONLY)
+        view.fileChooserWindow.fileSelectionMode = JFileChooser.FILES_ONLY
+        view.fileChooserWindow.dialogType = JFileChooser.OPEN_DIALOG
         def openResult = view.fileChooserWindow.showOpenDialog()
         if( JFileChooser.APPROVE_OPTION == openResult ) {
             def xmlFile = view.fileChooserWindow.getSelectedFile()
@@ -90,6 +91,7 @@ class DupFinderController {
 
     def parseFolder = {
         view.fileChooserWindow.setFileSelectionMode(JFileChooser.DIRECTORIES_ONLY)
+        view.fileChooserWindow.dialogType = JFileChooser.OPEN_DIALOG
         def openResult = view.fileChooserWindow.showOpenDialog()
         if( JFileChooser.APPROVE_OPTION == openResult ) {
             def dir = view.fileChooserWindow.getSelectedFile()
@@ -114,6 +116,30 @@ class DupFinderController {
 
             updateFooter()
         }
+    }
+
+    def saveFileAs = {
+        view.fileChooserWindow.setFileSelectionMode(JFileChooser.FILES_ONLY)
+        view.fileChooserWindow.dialogType = JFileChooser.SAVE_DIALOG
+        def openResult = view.fileChooserWindow.showSaveDialog()
+        if( JFileChooser.APPROVE_OPTION == openResult ) {
+            def out = view.fileChooserWindow.selectedFile
+            println "Writing output to " + out
+            out.delete()
+            out << "<?xml version=\"1.0\" encoding=\"ISO-8859-2\" ?>"
+            out << "<FileList>"
+            model.files.each {
+                out << Utils.pogoToXml(it)
+            }
+            out << "</FileList>"
+        }
+    }
+
+    def clear = {
+        model.files.clear()
+        model.duplicates.clear()
+        model.footerMessage = " "
+        model.folderName = "N/A"
     }
 
     def quit = {

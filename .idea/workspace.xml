@@ -4,7 +4,13 @@
     <bookmark url="file://$PROJECT_DIR$/griffon-app/controllers/dupfinder/Utils.groovy" line="78" mnemonic="1" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b52a360-9388-4f28-8a4b-8e77c11997a3" name="Default" comment="" />
+    <list default="true" id="5b52a360-9388-4f28-8a4b-8e77c11997a3" name="Default" comment="Initial commit&#10;">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/griffon-app/controllers/dupfinder/DupFinderController.groovy" afterPath="$PROJECT_DIR$/griffon-app/controllers/dupfinder/DupFinderController.groovy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/griffon-app/views/dupfinder/DupFinderView.groovy" afterPath="$PROJECT_DIR$/griffon-app/views/dupfinder/DupFinderView.groovy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/griffon-app/controllers/dupfinder/Utils.groovy" afterPath="$PROJECT_DIR$/griffon-app/controllers/dupfinder/Utils.groovy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="DupFinder.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$USER_HOME$/.griffon/" />
@@ -68,19 +74,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="DupFinderController.groovy" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="DupFinderController.groovy" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/griffon-app/controllers/dupfinder/DupFinderController.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="36" selection-start="733" selection-end="733" vertical-scroll-proportion="0.0" vertical-offset="476" max-vertical-offset="2176">
+            <state line="59" column="44" selection-start="2118" selection-end="2118" vertical-scroll-proportion="0.33333334" vertical-offset="794" max-vertical-offset="2601">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Utils.groovy" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Utils.groovy" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/griffon-app/controllers/dupfinder/Utils.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2312">
+            <state line="73" column="34" selection-start="2416" selection-end="2416" vertical-scroll-proportion="0.0" vertical-offset="1049" max-vertical-offset="2312">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DupFinderView.groovy" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/griffon-app/views/dupfinder/DupFinderView.groovy">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="0" selection-start="677" selection-end="677" vertical-scroll-proportion="-7.0384617" vertical-offset="4" max-vertical-offset="952">
               <folding />
             </state>
           </provider>
@@ -89,7 +104,7 @@
       <file leaf-file-name="FileDesc.groovy" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/griffon-app/controllers/dupfinder/FileDesc.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="42" selection-start="537" selection-end="548" vertical-scroll-proportion="0.0" vertical-offset="408" max-vertical-offset="731">
+            <state line="24" column="42" selection-start="537" selection-end="548" vertical-scroll-proportion="0.0" vertical-offset="53" max-vertical-offset="629">
               <folding />
             </state>
           </provider>
@@ -98,7 +113,7 @@
       <file leaf-file-name="DupFinderModel.groovy" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/griffon-app/models/dupfinder/DupFinderModel.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="39" selection-start="314" selection-end="314" vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="425">
+            <state line="12" column="39" selection-start="314" selection-end="314" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="357">
               <folding />
             </state>
           </provider>
@@ -112,16 +127,22 @@
     </FindUsagesManager>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="koverg70" />
+      </list>
+    </option>
     <option name="SYNC_SETTING" value="DONT" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/griffon-app/models/dupfinder/FileDesc.groovy" />
         <option value="$PROJECT_DIR$/griffon-app/models/dupfinder/Utils.groovy" />
+        <option value="$PROJECT_DIR$/griffon-app/models/dupfinder/DupFinderModel.groovy" />
         <option value="$PROJECT_DIR$/griffon-app/views/dupfinder/DupFinderView.groovy" />
         <option value="$PROJECT_DIR$/griffon-app/controllers/dupfinder/DupFinderController.groovy" />
-        <option value="$PROJECT_DIR$/griffon-app/models/dupfinder/DupFinderModel.groovy" />
         <option value="$PROJECT_DIR$/griffon-app/controllers/dupfinder/Utils.groovy" />
       </list>
     </option>
@@ -132,7 +153,7 @@
     <option name="width" value="1696" />
     <option name="height" value="1026" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -177,28 +198,8 @@
               <option name="myItemId" value="DupFinder" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="DupFinder" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DupFinder-griffonPlugins" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewModuleNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DupFinder" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DupFinder-griffonPlugins" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="glazedlists-2.0.0" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -210,32 +211,6 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="DupFinder-griffonPlugins" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="glazedlists-2.0.0" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="docs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DupFinder" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DupFinder-griffonPlugins" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="glazedlists-2.0.0" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dist" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -278,6 +253,12 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin" singleton="true">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
     <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
       <module name="" />
       <setting name="path" value="" />
@@ -285,12 +266,6 @@
       <setting name="params" value="" />
       <setting name="workDir" value="file://$PROJECT_DIR$" />
       <setting name="debug" value="false" />
-      <method />
-    </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin" singleton="true">
-      <module name="" />
-      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
-      <option name="PROGRAM_PARAMETERS" />
       <method />
     </configuration>
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
@@ -329,19 +304,6 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <method />
-    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <module name="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -367,6 +329,19 @@
       <envs />
       <properties />
       <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -512,21 +487,21 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32962137" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Griffon View" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962137" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24969475" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24969475" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962137" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32850778" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32924107" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -541,6 +516,8 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
+    <MESSAGE value="Initial commit&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -550,6 +527,34 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/griffon-app/controllers/dupfinder/DupFinderController.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="36" selection-start="733" selection-end="733" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2176">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/griffon-app/controllers/dupfinder/Utils.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="54" selection-start="241" selection-end="241" vertical-scroll-proportion="0.0" vertical-offset="221" max-vertical-offset="2312">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/griffon-app/controllers/dupfinder/FileDesc.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="42" selection-start="537" selection-end="548" vertical-scroll-proportion="0.0" vertical-offset="408" max-vertical-offset="731">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/griffon-app/models/dupfinder/DupFinderModel.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="39" selection-start="314" selection-end="314" vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="425">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/griffon-app/controllers/dupfinder/DupFinderController.groovy">
       <provider selected="true" editor-type-id="text-editor">
         <state line="28" column="36" selection-start="733" selection-end="733" vertical-scroll-proportion="0.0" vertical-offset="476" max-vertical-offset="2176">
@@ -676,11 +681,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="jar://D:/java/jdk1.7_x64/src.zip!/javax/swing/JFileChooser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="440" column="6" selection-start="14412" selection-end="14412" vertical-scroll-proportion="0.33960047" vertical-offset="6375" max-vertical-offset="32249" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/griffonw">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-4.055652" vertical-offset="2332" max-vertical-offset="2907" />
@@ -726,11 +726,6 @@
         <state line="364" column="45" selection-start="22233" selection-end="22233" vertical-scroll-proportion="0.0" vertical-offset="6188" max-vertical-offset="62084" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/griffon-app/views/dupfinder/DupFinderView.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="42" column="46" selection-start="1542" selection-end="1542" vertical-scroll-proportion="0.0" vertical-offset="291" max-vertical-offset="867" />
-      </provider>
-    </entry>
     <entry file="jar://D:/java/griffon-1.4.0/dist/griffon-rt-1.4.0.jar!/org/codehaus/griffon/runtime/util/GriffonApplicationHelper.class">
       <provider selected="true" editor-type-id="text-editor">
         <state line="36" column="40" selection-start="3227" selection-end="3227" vertical-scroll-proportion="0.33613446" vertical-offset="435" max-vertical-offset="1802" />
@@ -744,6 +739,11 @@
     <entry file="jar://D:/java/griffon-1.4.0/dist/griffon-rt-1.4.0.jar!/org/codehaus/griffon/runtime/util/AbstractUIThreadHandler.class">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="493" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/griffon-app/conf/webstart/application.jnlp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1088" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/griffon-app/controllers/dupfinder/FileDesc.groovy">
@@ -760,16 +760,251 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/griffon-app/controllers/dupfinder/DupFinderController.groovy">
+    <entry file="jar://D:/java/jdk1.7_x64/src.zip!/javax/swing/JFileChooser.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="36" selection-start="733" selection-end="733" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2176">
+        <state line="642" column="22" selection-start="20863" selection-end="20867" vertical-scroll-proportion="0.33272728" vertical-offset="9813" max-vertical-offset="32249">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java/jdk1.7_x64/src.zip!/java/lang/Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1154" column="31" selection-start="47733" selection-end="47743" vertical-scroll-proportion="0.33272728" vertical-offset="3217" max-vertical-offset="9384">
+          <folding>
+            <element signature="docComment;class#Class#0" expanded="false" />
+            <element signature="initializer##0;class#Class#0" expanded="false" />
+            <element signature="docComment;method#toString#0;class#Class#0" expanded="false" />
+            <element signature="method#toString#0;class#Class#0" expanded="false" />
+            <element signature="docComment;method#forName#0;class#Class#0" expanded="false" />
+            <element signature="method#forName#0;class#Class#0" expanded="false" />
+            <element signature="docComment;method#forName#1;class#Class#0" expanded="false" />
+            <element signature="method#forName#1;class#Class#0" expanded="false" />
+            <element signature="docComment;method#forName0#0;class#Class#0" expanded="false" />
+            <element signature="docComment;method#newInstance#0;class#Class#0" expanded="false" />
+            <element signature="method#newInstance#0;class#Class#0" expanded="false" />
+            <element signature="e#12707#12768#0" expanded="false" />
+            <element signature="e#13242#13292#0" expanded="false" />
+            <element signature="docComment;method#isInstance#0;class#Class#0" expanded="false" />
+            <element signature="docComment;method#isAssignableFrom#0;class#Class#0" expanded="false" />
+            <element signature="docComment;method#isInterface#0;class#Class#0" expanded="false" />
+            <element signature="docComment;method#isArray#0;class#Class#0" expanded="false" />
+            <element signature="docComment;method#isPrimitive#0;class#Class#0" expanded="false" />
+            <element signature="docComment;method#isAnnotation#0;class#Class#0" expanded="false" />
+            <element signature="method#isAnnotation#0;class#Class#0" expanded="false" />
+            <element signature="docComment;method#isSynthetic#0;class#Class#0" expanded="false" />
+            <element signature="method#isSynthetic#0;class#Class#0" expanded="false" />
+            <element signature="docComment;method#getName#0;class#Class#0" expanded="false" />
+            <element signature="method#getName#0;class#Class#0" expanded="false" />
+            <element signature="docComment;method#getClassLoader#0;class#Class#0" expanded="false" />
+            <element signature="method#getClassLoader#0;class#Class#0" expanded="false" />
+            <element signature="docComment;method#getTypeParameters#0;class#Class#0" expanded="false" />
+            <element signature="method#getTypeParameters#0;class#Class#0" expanded="false" />
+            <element signature="docComment;method#getSuperclass#0;class#Class#0" expanded="false" />
+            <element signature="method#getGenericSuperclass#0;class#Class#0" expanded="false" />
+            <element signature="e#28183#28210#0" expanded="false" />
+            <element signature="docComment;method#getPackage#0;class#Class#0" expanded="false" />
+            <element signature="method#getPackage#0;class#Class#0" expanded="false" />
+            <element signature="docComment;method#getInterfaces#0;class#Class#0" expanded="false" />
+            <element signature="docComment;method#getGenericInterfaces#0;class#Class#0" expanded="false" />
+            <element signature="method#getGenericInterfaces#0;class#Class#0" expanded="false" />
+            <element signature="docComment;method#getComponentType#0;class#Class#0" expanded="false" />
+            <element signature="docComment;method#getModifiers#0;class#Class#0" expanded="false" />
+            <element signature="docComment;method#getSigners#0;class#Class#0" expanded="false" />
+            <element signature="docComment;method#setSigners#0;class#Class#0" expanded="false" />
+            <element signature="docComment;method#getEnclosingMethod#0;class#Class#0" expanded="false" />
+            <element signature="method#getEnclosingMethod#0;class#Class#0" expanded="false" />
+            <element signature="e#37528#37580#0" expanded="false" />
+            <element signature="e#37947#38003#0" expanded="false" />
+            <element signature="method#getEnclosingMethodInfo#0;class#Class#0" expanded="false" />
+            <element signature="class#EnclosingMethodInfo#0;class#Class#0" expanded="false" />
+            <element signature="method#EnclosingMethodInfo#0;class#EnclosingMethodInfo#0;class#Class#0" expanded="false" />
+            <element signature="e#40335#40383#0" expanded="false" />
+            <element signature="e#40563#40615#0" expanded="false" />
+            <element signature="e#40735#40787#0" expanded="false" />
+            <element signature="method#isPartial#0;class#EnclosingMethodInfo#0;class#Class#0" expanded="false" />
+            <element signature="method#isConstructor#0;class#EnclosingMethodInfo#0;class#Class#0" expanded="false" />
+            <element signature="method#isMethod#0;class#EnclosingMethodInfo#0;class#Class#0" expanded="false" />
+            <element signature="method#toClass#0;class#Class#0" expanded="false" />
+            <element signature="docComment;method#getEnclosingConstructor#0;class#Class#0" expanded="false" />
+            <element signature="method#getEnclosingConstructor#0;class#Class#0" expanded="false" />
+            <element signature="e#43274#43326#0" expanded="false" />
+            <element signature="e#43693#43749#0" expanded="false" />
+            <element signature="docComment;method#getDeclaringClass#0;class#Class#0" expanded="false" />
+            <element signature="docComment;method#getEnclosingClass#0;class#Class#0" expanded="false" />
+            <element signature="method#getEnclosingClass#0;class#Class#0" expanded="false" />
+            <element signature="e#45912#45963#0" expanded="false" />
+            <element signature="method#getSimpleName#0;class#Class#0" expanded="false" />
+            <element signature="e#48088#48149#0" expanded="false" />
+            <element signature="docComment;method#isAsciiDigit#0;class#Class#0" expanded="false" />
+            <element signature="method#isAsciiDigit#0;class#Class#0" expanded="false" />
+            <element signature="docComment;method#getCanonicalName#0;class#Class#0" expanded="false" />
+            <element signature="method#getCanonicalName#0;class#Class#0" expanded="false" />
+            <element signature="docComment;method#isAnonymousClass#0;class#Class#0" expanded="false" />
+            <element signature="method#isAnonymousClass#0;class#Class#0" expanded="false" />
+            <element signature="docComment;method#isLocalClass#0;class#Class#0" expanded="false" />
+            <element signature="method#isLocalClass#0;class#Class#0" expanded="false" />
+            <element signature="docComment;method#isMemberClass#0;class#Class#0" expanded="false" />
+            <element signature="method#isMemberClass#0;class#Class#0" expanded="false" />
+            <element signature="docComment;method#getSimpleBinaryName#0;class#Class#0" expanded="false" />
+            <element signature="method#getSimpleBinaryName#0;class#Class#0" expanded="false" />
+            <element signature="docComment;method#isLocalOrAnonymousClass#0;class#Class#0" expanded="false" />
+            <element signature="method#isLocalOrAnonymousClass#0;class#Class#0" expanded="false" />
+            <element signature="e#52452#52507#0" expanded="false" />
+            <element signature="docComment;method#getClasses#0;class#Class#0" expanded="false" />
+            <element signature="method#getClasses#0;class#Class#0" expanded="false" />
+            <element signature="e#54296#54352#0" expanded="false" />
+            <element signature="e#54554#54620#0" expanded="false" />
+            <element signature="docComment;method#getFields#0;class#Class#0" expanded="false" />
+            <element signature="method#getFields#0;class#Class#0" expanded="false" />
+            <element signature="e#57843#57899#0" expanded="false" />
+            <element signature="docComment;method#getMethods#0;class#Class#0" expanded="false" />
+            <element signature="method#getMethods#0;class#Class#0" expanded="false" />
+            <element signature="e#60275#60331#0" expanded="false" />
+            <element signature="docComment;method#getConstructors#0;class#Class#0" expanded="false" />
+            <element signature="method#getConstructors#0;class#Class#0" expanded="false" />
+            <element signature="e#62572#62628#0" expanded="false" />
+            <element signature="docComment;method#getField#0;class#Class#0" expanded="false" />
+            <element signature="method#getField#0;class#Class#0" expanded="false" />
+            <element signature="e#65268#65324#0" expanded="false" />
+            <element signature="docComment;method#getMethod#0;class#Class#0" expanded="false" />
+            <element signature="method#getMethod#0;class#Class#0" expanded="false" />
+            <element signature="e#69461#69517#0" expanded="false" />
+            <element signature="docComment;method#getConstructor#0;class#Class#0" expanded="false" />
+            <element signature="method#getConstructor#0;class#Class#0" expanded="false" />
+            <element signature="e#71935#71991#0" expanded="false" />
+            <element signature="docComment;method#getDeclaredClasses#0;class#Class#0" expanded="false" />
+            <element signature="method#getDeclaredClasses#0;class#Class#0" expanded="false" />
+            <element signature="e#73884#73940#0" expanded="false" />
+            <element signature="docComment;method#getDeclaredFields#0;class#Class#0" expanded="false" />
+            <element signature="method#getDeclaredFields#0;class#Class#0" expanded="false" />
+            <element signature="e#75900#75956#0" expanded="false" />
+            <element signature="docComment;method#getDeclaredMethods#0;class#Class#0" expanded="false" />
+            <element signature="method#getDeclaredMethods#0;class#Class#0" expanded="false" />
+            <element signature="e#78184#78240#0" expanded="false" />
+            <element signature="docComment;method#getDeclaredConstructors#0;class#Class#0" expanded="false" />
+            <element signature="method#getDeclaredConstructors#0;class#Class#0" expanded="false" />
+            <element signature="e#80268#80324#0" expanded="false" />
+            <element signature="docComment;method#getDeclaredField#0;class#Class#0" expanded="false" />
+            <element signature="method#getDeclaredField#0;class#Class#0" expanded="false" />
+            <element signature="e#82233#82289#0" expanded="false" />
+            <element signature="docComment;method#getDeclaredMethod#0;class#Class#0" expanded="false" />
+            <element signature="method#getDeclaredMethod#0;class#Class#0" expanded="false" />
+            <element signature="e#84853#84909#0" expanded="false" />
+            <element signature="docComment;method#getDeclaredConstructor#0;class#Class#0" expanded="false" />
+            <element signature="method#getDeclaredConstructor#0;class#Class#0" expanded="false" />
+            <element signature="e#87156#87212#0" expanded="false" />
+            <element signature="docComment;method#getResourceAsStream#0;class#Class#0" expanded="false" />
+            <element signature="method#getResourceAsStream#0;class#Class#0" expanded="false" />
+            <element signature="docComment;method#getResource#0;class#Class#0" expanded="false" />
+            <element signature="method#getResource#0;class#Class#0" expanded="false" />
+            <element signature="docComment;field#allPermDomain#0;class#Class#0" expanded="false" />
+            <element signature="docComment;method#getProtectionDomain#0;class#Class#0" expanded="false" />
+            <element signature="method#getProtectionDomain#0;class#Class#0" expanded="false" />
+            <element signature="docComment;method#getProtectionDomain0#0;class#Class#0" expanded="false" />
+            <element signature="docComment;method#setProtectionDomain0#0;class#Class#0" expanded="false" />
+            <element signature="method#isCheckMemberAccessOverridden#0;class#Class#0" expanded="false" />
+            <element signature="method#checkMemberAccess#0;class#Class#0" expanded="false" />
+            <element signature="e#94277#94331#0" expanded="false" />
+            <element signature="method#checkPackageAccess#0;class#Class#0" expanded="false" />
+            <element signature="docComment;method#resolveName#0;class#Class#0" expanded="false" />
+            <element signature="method#resolveName#0;class#Class#0" expanded="false" />
+            <element signature="docComment;field#useCaches#0;class#Class#0" expanded="false" />
+            <element signature="method#clearCachesOnClassRedefinition#0;class#Class#0" expanded="false" />
+            <element signature="e#98143#98206#0" expanded="false" />
+            <element signature="method#getFactory#0;class#Class#0" expanded="false" />
+            <element signature="method#getGenericInfo#0;class#Class#0" expanded="false" />
+            <element signature="e#99500#99502#0" expanded="false" />
+            <element signature="method#privateGetDeclaredFields#0;class#Class#0" expanded="false" />
+            <element signature="method#privateGetPublicFields#0;class#Class#0" expanded="false" />
+            <element signature="e#101216#101272#0" expanded="false" />
+            <element signature="method#addAll#0;class#Class#0" expanded="false" />
+            <element signature="e#102467#102469#0" expanded="false" />
+            <element signature="method#privateGetDeclaredConstructors#0;class#Class#0" expanded="false" />
+            <element signature="e#103780#103782#0" expanded="false" />
+            <element signature="method#privateGetDeclaredMethods#0;class#Class#0" expanded="false" />
+            <element signature="class#MethodArray#0;class#Class#0" expanded="false" />
+            <element signature="method#MethodArray#0;class#MethodArray#0;class#Class#0" expanded="false" />
+            <element signature="method#add#0;class#MethodArray#0;class#Class#0" expanded="false" />
+            <element signature="method#addAll#0;class#MethodArray#0;class#Class#0" expanded="false" />
+            <element signature="method#addAll#1;class#MethodArray#0;class#Class#0" expanded="false" />
+            <element signature="method#addIfNotPresent#0;class#MethodArray#0;class#Class#0" expanded="false" />
+            <element signature="method#addAllIfNotPresent#0;class#MethodArray#0;class#Class#0" expanded="false" />
+            <element signature="method#length#0;class#MethodArray#0;class#Class#0" expanded="false" />
+            <element signature="method#get#0;class#MethodArray#0;class#Class#0" expanded="false" />
+            <element signature="method#removeByNameAndSignature#0;class#MethodArray#0;class#Class#0" expanded="false" />
+            <element signature="method#compactAndTrim#0;class#MethodArray#0;class#Class#0" expanded="false" />
+            <element signature="method#privateGetPublicMethods#0;class#Class#0" expanded="false" />
+            <element signature="e#107995#108051#0" expanded="false" />
+            <element signature="e#108275#108331#0" expanded="false" />
+            <element signature="e#108975#109020#0" expanded="false" />
+            <element signature="e#109369#109416#0" expanded="false" />
+            <element signature="e#110087#110089#0" expanded="false" />
+            <element signature="method#searchFields#0;class#Class#0" expanded="false" />
+            <element signature="method#getField0#0;class#Class#0" expanded="false" />
+            <element signature="e#110574#110635#0" expanded="false" />
+            <element signature="method#searchMethods#0;class#Class#0" expanded="false" />
+            <element signature="method#getMethod0#0;class#Class#0" expanded="false" />
+            <element signature="e#112560#112621#0" expanded="false" />
+            <element signature="method#getConstructor0#0;class#Class#0" expanded="false" />
+            <element signature="e#114561#114563#0" expanded="false" />
+            <element signature="method#arrayContentsEq#0;class#Class#0" expanded="false" />
+            <element signature="method#copyFields#0;class#Class#0" expanded="false" />
+            <element signature="method#copyMethods#0;class#Class#0" expanded="false" />
+            <element signature="method#copyConstructors#0;class#Class#0" expanded="false" />
+            <element signature="method#argumentTypesToString#0;class#Class#0" expanded="false" />
+            <element signature="docComment;field#serialVersionUID#0;class#Class#0" expanded="false" />
+            <element signature="docComment;field#serialPersistentFields#0;class#Class#0" expanded="false" />
+            <element signature="docComment;method#desiredAssertionStatus#0;class#Class#0" expanded="false" />
+            <element signature="method#desiredAssertionStatus#0;class#Class#0" expanded="false" />
+            <element signature="e#119341#119402#0" expanded="false" />
+            <element signature="docComment;method#isEnum#0;class#Class#0" expanded="false" />
+            <element signature="method#isEnum#0;class#Class#0" expanded="false" />
+            <element signature="e#120123#120183#0" expanded="false" />
+            <element signature="method#getReflectionFactory#0;class#Class#0" expanded="false" />
+            <element signature="method#checkInitted#0;class#Class#0" expanded="false" />
+            <element signature="e#121148#121203#0" expanded="false" />
+            <element signature="docComment;method#getEnumConstants#0;class#Class#0" expanded="false" />
+            <element signature="method#getEnumConstants#0;class#Class#0" expanded="false" />
+            <element signature="docComment;method#getEnumConstantsShared#0;class#Class#0" expanded="false" />
+            <element signature="method#getEnumConstantsShared#0;class#Class#0" expanded="false" />
+            <element signature="e#123617#123673#0" expanded="false" />
+            <element signature="docComment;method#enumConstantDirectory#0;class#Class#0" expanded="false" />
+            <element signature="method#enumConstantDirectory#0;class#Class#0" expanded="false" />
+            <element signature="docComment;method#cast#0;class#Class#0" expanded="false" />
+            <element signature="method#cast#0;class#Class#0" expanded="false" />
+            <element signature="method#cannotCastMsg#0;class#Class#0" expanded="false" />
+            <element signature="docComment;method#asSubclass#0;class#Class#0" expanded="false" />
+            <element signature="method#asSubclass#0;class#Class#0" expanded="false" />
+            <element signature="docComment;method#getAnnotation#0;class#Class#0" expanded="false" />
+            <element signature="method#getAnnotation#0;class#Class#0" expanded="false" />
+            <element signature="docComment;method#isAnnotationPresent#0;class#Class#0" expanded="false" />
+            <element signature="method#isAnnotationPresent#0;class#Class#0" expanded="false" />
+            <element signature="docComment;method#getAnnotations#0;class#Class#0" expanded="false" />
+            <element signature="method#getAnnotations#0;class#Class#0" expanded="false" />
+            <element signature="docComment;method#getDeclaredAnnotations#0;class#Class#0" expanded="false" />
+            <element signature="method#getDeclaredAnnotations#0;class#Class#0" expanded="false" />
+            <element signature="method#initAnnotationsIfNecessary#0;class#Class#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/griffon-app/controllers/dupfinder/Utils.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2312">
+        <state line="73" column="34" selection-start="2416" selection-end="2416" vertical-scroll-proportion="0.0" vertical-offset="1049" max-vertical-offset="2312">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/griffon-app/views/dupfinder/DupFinderView.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="0" selection-start="677" selection-end="677" vertical-scroll-proportion="-7.0384617" vertical-offset="4" max-vertical-offset="952">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/griffon-app/controllers/dupfinder/DupFinderController.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="59" column="44" selection-start="2118" selection-end="2118" vertical-scroll-proportion="0.33333334" vertical-offset="794" max-vertical-offset="2601">
           <folding />
         </state>
       </provider>

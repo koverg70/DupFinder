@@ -1,8 +1,10 @@
 package dupfinder
 
 actions {
-    action(id: 'openAction', name: 'Open XML', mnemonic: 'O', accelerator: shortcut('O'), closure: controller.openFile)
-    action(id: 'parseAction', name: 'Parse Folder', mnemonic: 'P', accelerator: shortcut('P'), closure: controller.parseFolder)
+    action(id: 'openAction', name: 'Open XML...', mnemonic: 'O', accelerator: shortcut('O'), closure: controller.openFile)
+    action(id: 'saveAsAction', name: 'Save XML As...', mnemonic: 'S', accelerator: shortcut('S'), closure: controller.saveFileAs)
+    action(id: 'parseAction', name: 'Parse Folder...', mnemonic: 'P', accelerator: shortcut('P'), closure: controller.parseFolder)
+    action(id: 'clearAction', name: 'Clear', mnemonic: 'C', accelerator: shortcut('C'), closure: controller.clear)
     action(id: 'quitAction', name: 'Quit', mnemonic: 'Q', accelerator: shortcut('Q'), closure: controller.quit)
 }
 
@@ -20,7 +22,10 @@ fileViewerWindow = application(title: 'DupFinder',
     menuBar {
         menu('File') {
             menuItem openAction
+            menuItem saveAsAction
+            separator()
             menuItem parseAction
+            menuItem clearAction
             separator()
             menuItem quitAction
         }
@@ -32,7 +37,7 @@ fileViewerWindow = application(title: 'DupFinder',
     }
     scrollPane(constraints: CENTER) {
         table {
-            def columns = ['Name', 'Path', 'Length']
+            def columns = ['Name', 'Path', 'Length', 'Dupes']
             def tf = defaultTableFormat(columnNames: columns)
             eventTableModel(source: model.duplicates, format: tf)
             installTableComparatorChooser(source: model.duplicates)
