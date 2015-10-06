@@ -4,9 +4,8 @@
     <bookmark url="file://$PROJECT_DIR$/griffon-app/controllers/dupfinder/Utils.groovy" line="79" mnemonic="1" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b52a360-9388-4f28-8a4b-8e77c11997a3" name="Default" comment="Idea project config changes...">
+    <list default="true" id="5b52a360-9388-4f28-8a4b-8e77c11997a3" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DupFinder-griffonPlugins.iml" afterPath="$PROJECT_DIR$/DupFinder-griffonPlugins.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="DupFinder.iws" />
@@ -431,7 +430,11 @@
       <created>1444123954569</created>
       <updated>1444123954569</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Idea project config changes...">
+      <created>1444123966025</created>
+      <updated>1444123966025</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
