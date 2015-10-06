@@ -1,6 +1,7 @@
 package dupfinder
 
 import java.security.MessageDigest
+import java.text.DecimalFormat
 
 /**
  * @author koverg70
@@ -108,7 +109,7 @@ class Utils
         final long[] dividers = [ T, G, M, K, 1 ];
         final String[] units = [ "TB", "GB", "MB", "KB", "B" ];
         if(value < 1)
-            throw new IllegalArgumentException("Invalid file size: " + value);
+            return "0 B";
         String result = null;
         for(int i = 0; i < dividers.length; i++){
             final long divider = dividers[i];

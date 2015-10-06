@@ -1,19 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/griffon-app/controllers/dupfinder/Utils.groovy" line="78" mnemonic="1" />
+    <bookmark url="file://$PROJECT_DIR$/griffon-app/controllers/dupfinder/Utils.groovy" line="79" mnemonic="1" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b52a360-9388-4f28-8a4b-8e77c11997a3" name="Default" comment="Initial commit&#10;">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/griffon-app/controllers/dupfinder/DupFinderController.groovy" afterPath="$PROJECT_DIR$/griffon-app/controllers/dupfinder/DupFinderController.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/griffon-app/views/dupfinder/DupFinderView.groovy" afterPath="$PROJECT_DIR$/griffon-app/views/dupfinder/DupFinderView.groovy" />
+    <list default="true" id="5b52a360-9388-4f28-8a4b-8e77c11997a3" name="Default" comment="Idea project config changes...">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DupFinder-griffonPlugins.iml" afterPath="$PROJECT_DIR$/DupFinder-griffonPlugins.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
+    </list>
+    <list id="df98685d-a387-417f-99c0-176d1391e312" name="Rejected commit: Default" comment="Idea project config changes...">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DupFinder.iml" afterPath="$PROJECT_DIR$/DupFinder.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/griffon-app/controllers/dupfinder/Utils.groovy" afterPath="$PROJECT_DIR$/griffon-app/controllers/dupfinder/Utils.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application.properties" afterPath="$PROJECT_DIR$/application.properties" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="DupFinder.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$USER_HOME$/.griffon/" />
+    <file path="$PROJECT_DIR$/.idea/workspace.xml" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,7 +32,7 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
-    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true" converted="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
         <option name="NOTIFY_UNCAUGHT" value="true" />
@@ -64,9 +68,8 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
-    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
-    <breakpoint_rules />
-    <ui_properties />
+    <breakpoint_rules converted="true" />
+    <ui_properties converted="true" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
@@ -74,10 +77,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="DupFinderController.groovy" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="DupFinderController.groovy" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/griffon-app/controllers/dupfinder/DupFinderController.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="59" column="44" selection-start="2118" selection-end="2118" vertical-scroll-proportion="0.33333334" vertical-offset="794" max-vertical-offset="2601">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3234">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -86,7 +90,8 @@
       <file leaf-file-name="Utils.groovy" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/griffon-app/controllers/dupfinder/Utils.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="73" column="34" selection-start="2416" selection-end="2416" vertical-scroll-proportion="0.0" vertical-offset="1049" max-vertical-offset="2312">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2877">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -95,7 +100,8 @@
       <file leaf-file-name="DupFinderView.groovy" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/griffon-app/views/dupfinder/DupFinderView.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="0" selection-start="677" selection-end="677" vertical-scroll-proportion="-7.0384617" vertical-offset="4" max-vertical-offset="952">
+            <state vertical-scroll-proportion="0.0" vertical-offset="231" max-vertical-offset="1176">
+              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -104,7 +110,18 @@
       <file leaf-file-name="FileDesc.groovy" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/griffon-app/controllers/dupfinder/FileDesc.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="42" selection-start="537" selection-end="548" vertical-scroll-proportion="0.0" vertical-offset="53" max-vertical-offset="629">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="777">
+              <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.properties" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.06" vertical-offset="0" max-vertical-offset="700">
+              <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -113,7 +130,8 @@
       <file leaf-file-name="DupFinderModel.groovy" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/griffon-app/models/dupfinder/DupFinderModel.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="39" selection-start="314" selection-end="314" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="357">
+            <state vertical-scroll-proportion="0.0" vertical-offset="252" max-vertical-offset="525">
+              <caret line="12" column="39" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
               <folding />
             </state>
           </provider>
@@ -148,10 +166,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
+    <option name="x" value="1912" />
     <option name="y" value="-8" />
-    <option name="width" value="1696" />
-    <option name="height" value="1026" />
+    <option name="width" value="1936" />
+    <option name="height" value="1216" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -167,7 +185,7 @@
     <option name="STATE" value="0" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+    <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -179,7 +197,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -188,33 +205,10 @@
               <option name="myItemId" value="DupFinder" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DupFinder" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DupFinder" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DupFinder" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DupFinder-griffonPlugins" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewModuleNode" />
-            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -253,7 +247,7 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin" singleton="true">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
       <option name="PROGRAM_PARAMETERS" />
@@ -286,6 +280,7 @@
       <option name="NETWORK_LATENCY" value="none" />
       <option name="CLEAR_LOGCAT" value="false" />
       <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
       <method />
     </configuration>
     <configuration default="true" type="GriffonRunConfigurationType" factoryName="Griffon">
@@ -395,6 +390,7 @@
       <option name="NETWORK_LATENCY" value="none" />
       <option name="CLEAR_LOGCAT" value="false" />
       <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
       <method />
     </configuration>
     <configuration default="false" name="Griffon:DupFinder" type="GriffonRunConfigurationType" factoryName="Griffon">
@@ -428,22 +424,8 @@
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
-  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
-    <option name="USER" value="" />
-    <option name="PASSWORD" value="" />
-    <option name="mySSHConnectionTimeout" value="30000" />
-    <option name="mySSHReadTimeout" value="30000" />
-    <option name="LAST_MERGED_REVISION" />
-    <option name="MERGE_DRY_RUN" value="false" />
-    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
-    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
-    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
-    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
-    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
-    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
-    <option name="FORCE_UPDATE" value="false" />
-    <option name="IGNORE_EXTERNALS" value="false" />
-    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  <component name="SvnConfiguration" myUseAcceleration="nothing">
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -474,38 +456,41 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
+    <frame x="1912" y="-8" width="1936" height="1216" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32903227" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962137" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3986637" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32903227" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32962137" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3299539" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32872927" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Griffon View" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962137" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24969475" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962137" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16950959" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32934684" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32850778" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32924107" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32842687" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
       <collection />
     </option>
   </component>
@@ -517,7 +502,8 @@
       <TodoPanelSettings />
     </option>
     <MESSAGE value="Initial commit&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit&#10;" />
+    <MESSAGE value="Idea project config changes..." />
+    <option name="LAST_COMMIT_MESSAGE" value="Idea project config changes..." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -529,131 +515,227 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/griffon-app/controllers/dupfinder/DupFinderController.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="36" selection-start="733" selection-end="733" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2176">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3234">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/griffon-app/controllers/dupfinder/Utils.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="54" selection-start="241" selection-end="241" vertical-scroll-proportion="0.0" vertical-offset="221" max-vertical-offset="2312">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/griffon-app/controllers/dupfinder/FileDesc.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="42" selection-start="537" selection-end="548" vertical-scroll-proportion="0.0" vertical-offset="408" max-vertical-offset="731">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/griffon-app/models/dupfinder/DupFinderModel.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="39" selection-start="314" selection-end="314" vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="425">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/griffon-app/controllers/dupfinder/DupFinderController.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="36" selection-start="733" selection-end="733" vertical-scroll-proportion="0.0" vertical-offset="476" max-vertical-offset="2176">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/griffon-app/controllers/dupfinder/Utils.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="67" column="41" selection-start="2191" selection-end="2191" vertical-scroll-proportion="0.0" vertical-offset="1139" max-vertical-offset="2312">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/griffon-app/controllers/dupfinder/FileDesc.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="42" selection-start="537" selection-end="548" vertical-scroll-proportion="0.0" vertical-offset="408" max-vertical-offset="731">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/griffon-app/models/dupfinder/DupFinderModel.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="39" selection-start="314" selection-end="314" vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="425">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2877">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/griffon-app/views/dupfinder/DupFinderView.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="122" selection-start="271" selection-end="271" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="918" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/griffon-app/controllers/dupfinder/Utils.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="53" column="82" selection-start="1745" selection-end="1745" vertical-scroll-proportion="0.0" vertical-offset="901" max-vertical-offset="1564">
+        <state vertical-scroll-proportion="0.0" vertical-offset="231" max-vertical-offset="1176">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding />
         </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/java/griffon-1.4.0/lib/groovy-all-2.1.7.jar!/org/codehaus/groovy/runtime/DefaultGroovyMethods.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="364" column="45" selection-start="22233" selection-end="22233" vertical-scroll-proportion="0.0" vertical-offset="6188" max-vertical-offset="62084" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/griffon-app/controllers/dupfinder/FileDesc.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="13" selection-start="287" selection-end="287" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="731">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/griffon-app/controllers/dupfinder/DupFinderController.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="58" column="17" selection-start="2008" selection-end="2008" vertical-scroll-proportion="0.0" vertical-offset="718" max-vertical-offset="1870">
+        <state vertical-scroll-proportion="0.0" vertical-offset="74" max-vertical-offset="777">
+          <caret line="24" column="42" selection-start-line="24" selection-start-column="42" selection-end-line="24" selection-end-column="42" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/griffon-app/models/dupfinder/DupFinderModel.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="54" selection-start="390" selection-end="390" vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="340">
+        <state vertical-scroll-proportion="0.0" vertical-offset="252" max-vertical-offset="525">
+          <caret line="12" column="39" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DupFinder-griffonPlugins.iml">
+    <entry file="file://$PROJECT_DIR$/griffon-app/controllers/dupfinder/DupFinderController.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="576" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="1239" max-vertical-offset="3213">
+          <caret line="59" column="44" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/griffon-app/controllers/dupfinder/Utils.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1533" max-vertical-offset="2856">
+          <caret line="73" column="34" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/griffon-app/views/dupfinder/DupFinderView.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="231" max-vertical-offset="1176">
+          <caret line="11" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/griffon-app/controllers/dupfinder/FileDesc.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="504" max-vertical-offset="903">
+          <caret line="24" column="42" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/griffon-app/models/dupfinder/DupFinderModel.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="252" max-vertical-offset="525">
+          <caret line="12" column="39" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/griffon-app/controllers/dupfinder/DupFinderController.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2176">
+          <caret line="28" column="36" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/griffon-app/controllers/dupfinder/Utils.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="221" max-vertical-offset="2312">
+          <caret line="13" column="54" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/griffon-app/controllers/dupfinder/FileDesc.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="408" max-vertical-offset="731">
+          <caret line="24" column="42" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/griffon-app/models/dupfinder/DupFinderModel.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="425">
+          <caret line="12" column="39" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/griffon-app/controllers/dupfinder/DupFinderController.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="476" max-vertical-offset="2176">
+          <caret line="28" column="36" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/griffon-app/controllers/dupfinder/Utils.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1139" max-vertical-offset="2312">
+          <caret line="67" column="41" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/griffon-app/controllers/dupfinder/FileDesc.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="408" max-vertical-offset="731">
+          <caret line="24" column="42" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/griffon-app/models/dupfinder/DupFinderModel.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="425">
+          <caret line="12" column="39" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/griffon-app/views/dupfinder/DupFinderView.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="918">
+          <caret line="4" column="122" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/griffon-app/controllers/dupfinder/Utils.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="901" max-vertical-offset="1564">
+          <caret line="53" column="82" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/griffon-app/controllers/dupfinder/FileDesc.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="731">
+          <caret line="15" column="13" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/griffon-app/controllers/dupfinder/DupFinderController.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="718" max-vertical-offset="1870">
+          <caret line="58" column="17" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/griffon-app/models/dupfinder/DupFinderModel.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="340">
+          <caret line="12" column="54" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DupFinder.iml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="629" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="629">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/griffon-app/lifecycle/Initialize.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="0" selection-start="414" selection-end="414" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="408" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="408">
+          <caret line="14" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/griffon-app/lifecycle/Ready.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="576" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="576">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/griffon-app/lifecycle/Shutdown.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="576" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="576">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/griffon-app/lifecycle/Startup.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="576" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="576">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/griffon-app/lifecycle/Stop.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="555" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="555">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/griffon-app/resources/griffon-icon-256x256.png">
@@ -683,328 +765,90 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/griffonw">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-4.055652" vertical-offset="2332" max-vertical-offset="2907" />
-      </provider>
-    </entry>
-    <entry file="jar://D:/java/griffon-1.4.0/dist/griffon-rt-1.4.0.jar!/org/codehaus/griffon/runtime/builder/UberInterceptorMetaClass.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="0" selection-start="2363" selection-end="2363" vertical-scroll-proportion="0.85634327" vertical-offset="153" max-vertical-offset="714" />
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.griffon/1.4.0/projects/DupFinder/plugins/glazedlists-2.0.0/plugin.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="561" />
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.griffon/1.4.0/projects/DupFinder/plugins/glazedlists-2.0.0/LICENSE.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3519" />
+        <state vertical-scroll-proportion="-4.055652" vertical-offset="2332" max-vertical-offset="2907">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/griffon-app/conf/Application.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="576" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="576">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/griffon-app/conf/BuildConfig.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3451" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3451">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/griffon-app/conf/Builder.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="576" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="576">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/griffon-app/conf/Config.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="576" />
-      </provider>
-    </entry>
-    <entry file="jar://D:/java/griffon-1.4.0/lib/groovy-all-2.1.7.jar!/org/codehaus/groovy/runtime/DefaultGroovyMethods.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="364" column="45" selection-start="22233" selection-end="22233" vertical-scroll-proportion="0.0" vertical-offset="6188" max-vertical-offset="62084" />
-      </provider>
-    </entry>
-    <entry file="jar://D:/java/griffon-1.4.0/dist/griffon-rt-1.4.0.jar!/org/codehaus/griffon/runtime/util/GriffonApplicationHelper.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="40" selection-start="3227" selection-end="3227" vertical-scroll-proportion="0.33613446" vertical-offset="435" max-vertical-offset="1802" />
-      </provider>
-    </entry>
-    <entry file="jar://D:/java/griffon-1.4.0/dist/griffon-rt-1.4.0.jar!/org/codehaus/griffon/runtime/core/AbstractGriffonArtifact.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="33" selection-start="1010" selection-end="1010" vertical-scroll-proportion="0.3172269" vertical-offset="223" max-vertical-offset="1819" />
-      </provider>
-    </entry>
-    <entry file="jar://D:/java/griffon-1.4.0/dist/griffon-rt-1.4.0.jar!/org/codehaus/griffon/runtime/util/AbstractUIThreadHandler.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="493" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="576">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/griffon-app/conf/webstart/application.jnlp">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1088" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/griffon-app/controllers/dupfinder/FileDesc.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="42" selection-start="537" selection-end="548" vertical-scroll-proportion="0.0" vertical-offset="53" max-vertical-offset="629">
-          <folding />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1088">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/griffon-app/models/dupfinder/DupFinderModel.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="39" selection-start="314" selection-end="314" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="425">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/java/jdk1.7_x64/src.zip!/javax/swing/JFileChooser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="642" column="22" selection-start="20863" selection-end="20867" vertical-scroll-proportion="0.33272728" vertical-offset="9813" max-vertical-offset="32249">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/java/jdk1.7_x64/src.zip!/java/lang/Class.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1154" column="31" selection-start="47733" selection-end="47743" vertical-scroll-proportion="0.33272728" vertical-offset="3217" max-vertical-offset="9384">
-          <folding>
-            <element signature="docComment;class#Class#0" expanded="false" />
-            <element signature="initializer##0;class#Class#0" expanded="false" />
-            <element signature="docComment;method#toString#0;class#Class#0" expanded="false" />
-            <element signature="method#toString#0;class#Class#0" expanded="false" />
-            <element signature="docComment;method#forName#0;class#Class#0" expanded="false" />
-            <element signature="method#forName#0;class#Class#0" expanded="false" />
-            <element signature="docComment;method#forName#1;class#Class#0" expanded="false" />
-            <element signature="method#forName#1;class#Class#0" expanded="false" />
-            <element signature="docComment;method#forName0#0;class#Class#0" expanded="false" />
-            <element signature="docComment;method#newInstance#0;class#Class#0" expanded="false" />
-            <element signature="method#newInstance#0;class#Class#0" expanded="false" />
-            <element signature="e#12707#12768#0" expanded="false" />
-            <element signature="e#13242#13292#0" expanded="false" />
-            <element signature="docComment;method#isInstance#0;class#Class#0" expanded="false" />
-            <element signature="docComment;method#isAssignableFrom#0;class#Class#0" expanded="false" />
-            <element signature="docComment;method#isInterface#0;class#Class#0" expanded="false" />
-            <element signature="docComment;method#isArray#0;class#Class#0" expanded="false" />
-            <element signature="docComment;method#isPrimitive#0;class#Class#0" expanded="false" />
-            <element signature="docComment;method#isAnnotation#0;class#Class#0" expanded="false" />
-            <element signature="method#isAnnotation#0;class#Class#0" expanded="false" />
-            <element signature="docComment;method#isSynthetic#0;class#Class#0" expanded="false" />
-            <element signature="method#isSynthetic#0;class#Class#0" expanded="false" />
-            <element signature="docComment;method#getName#0;class#Class#0" expanded="false" />
-            <element signature="method#getName#0;class#Class#0" expanded="false" />
-            <element signature="docComment;method#getClassLoader#0;class#Class#0" expanded="false" />
-            <element signature="method#getClassLoader#0;class#Class#0" expanded="false" />
-            <element signature="docComment;method#getTypeParameters#0;class#Class#0" expanded="false" />
-            <element signature="method#getTypeParameters#0;class#Class#0" expanded="false" />
-            <element signature="docComment;method#getSuperclass#0;class#Class#0" expanded="false" />
-            <element signature="method#getGenericSuperclass#0;class#Class#0" expanded="false" />
-            <element signature="e#28183#28210#0" expanded="false" />
-            <element signature="docComment;method#getPackage#0;class#Class#0" expanded="false" />
-            <element signature="method#getPackage#0;class#Class#0" expanded="false" />
-            <element signature="docComment;method#getInterfaces#0;class#Class#0" expanded="false" />
-            <element signature="docComment;method#getGenericInterfaces#0;class#Class#0" expanded="false" />
-            <element signature="method#getGenericInterfaces#0;class#Class#0" expanded="false" />
-            <element signature="docComment;method#getComponentType#0;class#Class#0" expanded="false" />
-            <element signature="docComment;method#getModifiers#0;class#Class#0" expanded="false" />
-            <element signature="docComment;method#getSigners#0;class#Class#0" expanded="false" />
-            <element signature="docComment;method#setSigners#0;class#Class#0" expanded="false" />
-            <element signature="docComment;method#getEnclosingMethod#0;class#Class#0" expanded="false" />
-            <element signature="method#getEnclosingMethod#0;class#Class#0" expanded="false" />
-            <element signature="e#37528#37580#0" expanded="false" />
-            <element signature="e#37947#38003#0" expanded="false" />
-            <element signature="method#getEnclosingMethodInfo#0;class#Class#0" expanded="false" />
-            <element signature="class#EnclosingMethodInfo#0;class#Class#0" expanded="false" />
-            <element signature="method#EnclosingMethodInfo#0;class#EnclosingMethodInfo#0;class#Class#0" expanded="false" />
-            <element signature="e#40335#40383#0" expanded="false" />
-            <element signature="e#40563#40615#0" expanded="false" />
-            <element signature="e#40735#40787#0" expanded="false" />
-            <element signature="method#isPartial#0;class#EnclosingMethodInfo#0;class#Class#0" expanded="false" />
-            <element signature="method#isConstructor#0;class#EnclosingMethodInfo#0;class#Class#0" expanded="false" />
-            <element signature="method#isMethod#0;class#EnclosingMethodInfo#0;class#Class#0" expanded="false" />
-            <element signature="method#toClass#0;class#Class#0" expanded="false" />
-            <element signature="docComment;method#getEnclosingConstructor#0;class#Class#0" expanded="false" />
-            <element signature="method#getEnclosingConstructor#0;class#Class#0" expanded="false" />
-            <element signature="e#43274#43326#0" expanded="false" />
-            <element signature="e#43693#43749#0" expanded="false" />
-            <element signature="docComment;method#getDeclaringClass#0;class#Class#0" expanded="false" />
-            <element signature="docComment;method#getEnclosingClass#0;class#Class#0" expanded="false" />
-            <element signature="method#getEnclosingClass#0;class#Class#0" expanded="false" />
-            <element signature="e#45912#45963#0" expanded="false" />
-            <element signature="method#getSimpleName#0;class#Class#0" expanded="false" />
-            <element signature="e#48088#48149#0" expanded="false" />
-            <element signature="docComment;method#isAsciiDigit#0;class#Class#0" expanded="false" />
-            <element signature="method#isAsciiDigit#0;class#Class#0" expanded="false" />
-            <element signature="docComment;method#getCanonicalName#0;class#Class#0" expanded="false" />
-            <element signature="method#getCanonicalName#0;class#Class#0" expanded="false" />
-            <element signature="docComment;method#isAnonymousClass#0;class#Class#0" expanded="false" />
-            <element signature="method#isAnonymousClass#0;class#Class#0" expanded="false" />
-            <element signature="docComment;method#isLocalClass#0;class#Class#0" expanded="false" />
-            <element signature="method#isLocalClass#0;class#Class#0" expanded="false" />
-            <element signature="docComment;method#isMemberClass#0;class#Class#0" expanded="false" />
-            <element signature="method#isMemberClass#0;class#Class#0" expanded="false" />
-            <element signature="docComment;method#getSimpleBinaryName#0;class#Class#0" expanded="false" />
-            <element signature="method#getSimpleBinaryName#0;class#Class#0" expanded="false" />
-            <element signature="docComment;method#isLocalOrAnonymousClass#0;class#Class#0" expanded="false" />
-            <element signature="method#isLocalOrAnonymousClass#0;class#Class#0" expanded="false" />
-            <element signature="e#52452#52507#0" expanded="false" />
-            <element signature="docComment;method#getClasses#0;class#Class#0" expanded="false" />
-            <element signature="method#getClasses#0;class#Class#0" expanded="false" />
-            <element signature="e#54296#54352#0" expanded="false" />
-            <element signature="e#54554#54620#0" expanded="false" />
-            <element signature="docComment;method#getFields#0;class#Class#0" expanded="false" />
-            <element signature="method#getFields#0;class#Class#0" expanded="false" />
-            <element signature="e#57843#57899#0" expanded="false" />
-            <element signature="docComment;method#getMethods#0;class#Class#0" expanded="false" />
-            <element signature="method#getMethods#0;class#Class#0" expanded="false" />
-            <element signature="e#60275#60331#0" expanded="false" />
-            <element signature="docComment;method#getConstructors#0;class#Class#0" expanded="false" />
-            <element signature="method#getConstructors#0;class#Class#0" expanded="false" />
-            <element signature="e#62572#62628#0" expanded="false" />
-            <element signature="docComment;method#getField#0;class#Class#0" expanded="false" />
-            <element signature="method#getField#0;class#Class#0" expanded="false" />
-            <element signature="e#65268#65324#0" expanded="false" />
-            <element signature="docComment;method#getMethod#0;class#Class#0" expanded="false" />
-            <element signature="method#getMethod#0;class#Class#0" expanded="false" />
-            <element signature="e#69461#69517#0" expanded="false" />
-            <element signature="docComment;method#getConstructor#0;class#Class#0" expanded="false" />
-            <element signature="method#getConstructor#0;class#Class#0" expanded="false" />
-            <element signature="e#71935#71991#0" expanded="false" />
-            <element signature="docComment;method#getDeclaredClasses#0;class#Class#0" expanded="false" />
-            <element signature="method#getDeclaredClasses#0;class#Class#0" expanded="false" />
-            <element signature="e#73884#73940#0" expanded="false" />
-            <element signature="docComment;method#getDeclaredFields#0;class#Class#0" expanded="false" />
-            <element signature="method#getDeclaredFields#0;class#Class#0" expanded="false" />
-            <element signature="e#75900#75956#0" expanded="false" />
-            <element signature="docComment;method#getDeclaredMethods#0;class#Class#0" expanded="false" />
-            <element signature="method#getDeclaredMethods#0;class#Class#0" expanded="false" />
-            <element signature="e#78184#78240#0" expanded="false" />
-            <element signature="docComment;method#getDeclaredConstructors#0;class#Class#0" expanded="false" />
-            <element signature="method#getDeclaredConstructors#0;class#Class#0" expanded="false" />
-            <element signature="e#80268#80324#0" expanded="false" />
-            <element signature="docComment;method#getDeclaredField#0;class#Class#0" expanded="false" />
-            <element signature="method#getDeclaredField#0;class#Class#0" expanded="false" />
-            <element signature="e#82233#82289#0" expanded="false" />
-            <element signature="docComment;method#getDeclaredMethod#0;class#Class#0" expanded="false" />
-            <element signature="method#getDeclaredMethod#0;class#Class#0" expanded="false" />
-            <element signature="e#84853#84909#0" expanded="false" />
-            <element signature="docComment;method#getDeclaredConstructor#0;class#Class#0" expanded="false" />
-            <element signature="method#getDeclaredConstructor#0;class#Class#0" expanded="false" />
-            <element signature="e#87156#87212#0" expanded="false" />
-            <element signature="docComment;method#getResourceAsStream#0;class#Class#0" expanded="false" />
-            <element signature="method#getResourceAsStream#0;class#Class#0" expanded="false" />
-            <element signature="docComment;method#getResource#0;class#Class#0" expanded="false" />
-            <element signature="method#getResource#0;class#Class#0" expanded="false" />
-            <element signature="docComment;field#allPermDomain#0;class#Class#0" expanded="false" />
-            <element signature="docComment;method#getProtectionDomain#0;class#Class#0" expanded="false" />
-            <element signature="method#getProtectionDomain#0;class#Class#0" expanded="false" />
-            <element signature="docComment;method#getProtectionDomain0#0;class#Class#0" expanded="false" />
-            <element signature="docComment;method#setProtectionDomain0#0;class#Class#0" expanded="false" />
-            <element signature="method#isCheckMemberAccessOverridden#0;class#Class#0" expanded="false" />
-            <element signature="method#checkMemberAccess#0;class#Class#0" expanded="false" />
-            <element signature="e#94277#94331#0" expanded="false" />
-            <element signature="method#checkPackageAccess#0;class#Class#0" expanded="false" />
-            <element signature="docComment;method#resolveName#0;class#Class#0" expanded="false" />
-            <element signature="method#resolveName#0;class#Class#0" expanded="false" />
-            <element signature="docComment;field#useCaches#0;class#Class#0" expanded="false" />
-            <element signature="method#clearCachesOnClassRedefinition#0;class#Class#0" expanded="false" />
-            <element signature="e#98143#98206#0" expanded="false" />
-            <element signature="method#getFactory#0;class#Class#0" expanded="false" />
-            <element signature="method#getGenericInfo#0;class#Class#0" expanded="false" />
-            <element signature="e#99500#99502#0" expanded="false" />
-            <element signature="method#privateGetDeclaredFields#0;class#Class#0" expanded="false" />
-            <element signature="method#privateGetPublicFields#0;class#Class#0" expanded="false" />
-            <element signature="e#101216#101272#0" expanded="false" />
-            <element signature="method#addAll#0;class#Class#0" expanded="false" />
-            <element signature="e#102467#102469#0" expanded="false" />
-            <element signature="method#privateGetDeclaredConstructors#0;class#Class#0" expanded="false" />
-            <element signature="e#103780#103782#0" expanded="false" />
-            <element signature="method#privateGetDeclaredMethods#0;class#Class#0" expanded="false" />
-            <element signature="class#MethodArray#0;class#Class#0" expanded="false" />
-            <element signature="method#MethodArray#0;class#MethodArray#0;class#Class#0" expanded="false" />
-            <element signature="method#add#0;class#MethodArray#0;class#Class#0" expanded="false" />
-            <element signature="method#addAll#0;class#MethodArray#0;class#Class#0" expanded="false" />
-            <element signature="method#addAll#1;class#MethodArray#0;class#Class#0" expanded="false" />
-            <element signature="method#addIfNotPresent#0;class#MethodArray#0;class#Class#0" expanded="false" />
-            <element signature="method#addAllIfNotPresent#0;class#MethodArray#0;class#Class#0" expanded="false" />
-            <element signature="method#length#0;class#MethodArray#0;class#Class#0" expanded="false" />
-            <element signature="method#get#0;class#MethodArray#0;class#Class#0" expanded="false" />
-            <element signature="method#removeByNameAndSignature#0;class#MethodArray#0;class#Class#0" expanded="false" />
-            <element signature="method#compactAndTrim#0;class#MethodArray#0;class#Class#0" expanded="false" />
-            <element signature="method#privateGetPublicMethods#0;class#Class#0" expanded="false" />
-            <element signature="e#107995#108051#0" expanded="false" />
-            <element signature="e#108275#108331#0" expanded="false" />
-            <element signature="e#108975#109020#0" expanded="false" />
-            <element signature="e#109369#109416#0" expanded="false" />
-            <element signature="e#110087#110089#0" expanded="false" />
-            <element signature="method#searchFields#0;class#Class#0" expanded="false" />
-            <element signature="method#getField0#0;class#Class#0" expanded="false" />
-            <element signature="e#110574#110635#0" expanded="false" />
-            <element signature="method#searchMethods#0;class#Class#0" expanded="false" />
-            <element signature="method#getMethod0#0;class#Class#0" expanded="false" />
-            <element signature="e#112560#112621#0" expanded="false" />
-            <element signature="method#getConstructor0#0;class#Class#0" expanded="false" />
-            <element signature="e#114561#114563#0" expanded="false" />
-            <element signature="method#arrayContentsEq#0;class#Class#0" expanded="false" />
-            <element signature="method#copyFields#0;class#Class#0" expanded="false" />
-            <element signature="method#copyMethods#0;class#Class#0" expanded="false" />
-            <element signature="method#copyConstructors#0;class#Class#0" expanded="false" />
-            <element signature="method#argumentTypesToString#0;class#Class#0" expanded="false" />
-            <element signature="docComment;field#serialVersionUID#0;class#Class#0" expanded="false" />
-            <element signature="docComment;field#serialPersistentFields#0;class#Class#0" expanded="false" />
-            <element signature="docComment;method#desiredAssertionStatus#0;class#Class#0" expanded="false" />
-            <element signature="method#desiredAssertionStatus#0;class#Class#0" expanded="false" />
-            <element signature="e#119341#119402#0" expanded="false" />
-            <element signature="docComment;method#isEnum#0;class#Class#0" expanded="false" />
-            <element signature="method#isEnum#0;class#Class#0" expanded="false" />
-            <element signature="e#120123#120183#0" expanded="false" />
-            <element signature="method#getReflectionFactory#0;class#Class#0" expanded="false" />
-            <element signature="method#checkInitted#0;class#Class#0" expanded="false" />
-            <element signature="e#121148#121203#0" expanded="false" />
-            <element signature="docComment;method#getEnumConstants#0;class#Class#0" expanded="false" />
-            <element signature="method#getEnumConstants#0;class#Class#0" expanded="false" />
-            <element signature="docComment;method#getEnumConstantsShared#0;class#Class#0" expanded="false" />
-            <element signature="method#getEnumConstantsShared#0;class#Class#0" expanded="false" />
-            <element signature="e#123617#123673#0" expanded="false" />
-            <element signature="docComment;method#enumConstantDirectory#0;class#Class#0" expanded="false" />
-            <element signature="method#enumConstantDirectory#0;class#Class#0" expanded="false" />
-            <element signature="docComment;method#cast#0;class#Class#0" expanded="false" />
-            <element signature="method#cast#0;class#Class#0" expanded="false" />
-            <element signature="method#cannotCastMsg#0;class#Class#0" expanded="false" />
-            <element signature="docComment;method#asSubclass#0;class#Class#0" expanded="false" />
-            <element signature="method#asSubclass#0;class#Class#0" expanded="false" />
-            <element signature="docComment;method#getAnnotation#0;class#Class#0" expanded="false" />
-            <element signature="method#getAnnotation#0;class#Class#0" expanded="false" />
-            <element signature="docComment;method#isAnnotationPresent#0;class#Class#0" expanded="false" />
-            <element signature="method#isAnnotationPresent#0;class#Class#0" expanded="false" />
-            <element signature="docComment;method#getAnnotations#0;class#Class#0" expanded="false" />
-            <element signature="method#getAnnotations#0;class#Class#0" expanded="false" />
-            <element signature="docComment;method#getDeclaredAnnotations#0;class#Class#0" expanded="false" />
-            <element signature="method#getDeclaredAnnotations#0;class#Class#0" expanded="false" />
-            <element signature="method#initAnnotationsIfNecessary#0;class#Class#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/griffon-app/controllers/dupfinder/Utils.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="73" column="34" selection-start="2416" selection-end="2416" vertical-scroll-proportion="0.0" vertical-offset="1049" max-vertical-offset="2312">
+        <state vertical-scroll-proportion="0.0" vertical-offset="252" max-vertical-offset="525">
+          <caret line="12" column="39" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/griffon-app/views/dupfinder/DupFinderView.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="0" selection-start="677" selection-end="677" vertical-scroll-proportion="-7.0384617" vertical-offset="4" max-vertical-offset="952">
+        <state vertical-scroll-proportion="0.0" vertical-offset="231" max-vertical-offset="1176">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/griffon-app/controllers/dupfinder/DupFinderController.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="59" column="44" selection-start="2118" selection-end="2118" vertical-scroll-proportion="0.33333334" vertical-offset="794" max-vertical-offset="2601">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3213">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/griffon-app/controllers/dupfinder/Utils.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2877">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/griffon-app/controllers/dupfinder/FileDesc.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="777">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.06" vertical-offset="0" max-vertical-offset="700">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
           <folding />
         </state>
       </provider>
