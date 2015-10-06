@@ -7,17 +7,11 @@
     <list default="true" id="5b52a360-9388-4f28-8a4b-8e77c11997a3" name="Default" comment="Idea project config changes...">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DupFinder-griffonPlugins.iml" afterPath="$PROJECT_DIR$/DupFinder-griffonPlugins.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-    </list>
-    <list id="df98685d-a387-417f-99c0-176d1391e312" name="Rejected commit: Default" comment="Idea project config changes...">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DupFinder.iml" afterPath="$PROJECT_DIR$/DupFinder.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/griffon-app/controllers/dupfinder/Utils.groovy" afterPath="$PROJECT_DIR$/griffon-app/controllers/dupfinder/Utils.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application.properties" afterPath="$PROJECT_DIR$/application.properties" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="DupFinder.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$USER_HOME$/.griffon/" />
-    <file path="$PROJECT_DIR$/.idea/workspace.xml" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -433,6 +427,11 @@
       <created>1391274227261</created>
       <updated>1391274227261</updated>
     </task>
+    <task id="LOCAL-00001" summary="Idea project config changes...">
+      <created>1444123954569</created>
+      <updated>1444123954569</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
